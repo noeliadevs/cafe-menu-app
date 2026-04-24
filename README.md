@@ -25,7 +25,7 @@ It represents a simple cafe menu with styled layout and organized sections.
 
 ## 🌐 Live Demo
 
-(You can add your GitHub Pages link here later)
+https://noeliadevs.github.io/cafe-menu-app/
 
 ---
 
